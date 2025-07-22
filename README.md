@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Vlad<br>🌱 I’m currently studying at ITMO University, Software Engineering 2nd course and T-bank (ex. Tinkoff) backend academy
+Hi! I'm Vlad<br>🌱 I’m currently studying at ITMO University, Software Engineering 3rd course and T-bank (ex. Tinkoff) backend academy
 
 
 # 💻 Tech Stack:
